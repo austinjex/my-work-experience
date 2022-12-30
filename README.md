@@ -11,7 +11,7 @@
        <div class="col-lg-12 text-center"><h4>August 2021 - December 2021</h4></div>
     <div class="container">
       <div class="row justify-content-around">
-        <p style="font-size:130%;">I was a TA for Dr. Kari O'Grady's social psychology class (PSYCH 350). My responsibilities in this roll included conducting recitations every Friday, making the Monday and Wednesday lectures available via Zoom to sick students, grading assignments, and conducting exam reviews. Although I wasn't evaluated by the students as part of the course, one student told me I was the best TA they'd ever had in a thank-you email. I'm still awaiting Dr. O'Grady's letter of recommendation which she volunteered to write for me.<br><br></p>
+        <p style="font-size:130%;">I was a TA for Dr. Kari O'Grady's social psychology class (PSYCH 350). My responsibilities in this roll included conducting recitations every Friday, making the Monday and Wednesday lectures available via Zoom to sick students, grading assignments, and conducting exam reviews. Although I wasn't evaluated by the students as part of the course, one student told me I was the best TA they'd ever had in a thank-you email.<br><br></p>
  
        
   <p>
